@@ -1,0 +1,1 @@
+# mall_kmeans_model.pkl
